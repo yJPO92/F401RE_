@@ -1,0 +1,29 @@
+#
+# file & directory to ignore
+#
+
+# executables
+[Rr]elease/*
+[Dd]ebug/*
+
+# mais garder les exec bin & hex
+!/Release/*.hex
+!/Release/*.bin
+!/Debug/*.hex
+!/Debug/*.bin
+
+# Atollic setting
+.settings/
+.project
+.cproject
+.mxproject
+
+# MCU particular files
+*.ld
+*.launch
+/startup/
+
+# me versionner moi-meme
+!.gitignore
+
+# That's all folks!
