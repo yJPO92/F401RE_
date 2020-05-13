@@ -75,8 +75,8 @@ void Error_Handler(void);
 #define SWO_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 #define yPROG "*** F401RE_ ***"
-#define yVER  "V1.1"
-#define yDATE "xx-Jul-2019"
+#define yVER  "V1.2"
+#define yDATE "xx-may-2020"
 
 /* USER CODE END Private defines */
 

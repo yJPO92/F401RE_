@@ -1,5 +1,6 @@
 *** F401RE_ ***
-
+le 13/05/2020: import ds workspace avec chgt de nom (peut etre fait par rename)
+               le nom est contenu ds .project
 //modif depuis Git
 le 13/05/2020: v1.1 Led blink OK, detect BP1 OK.
                testsuivi par Git local

@@ -14,9 +14,9 @@
 
 # Atollic setting
 .settings/
-.project
-.cproject
-.mxproject
+!.project
+!.cproject
+!.mxproject
 
 # MCU particular files
 *.ld
