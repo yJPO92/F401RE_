@@ -1,4 +1,12 @@
 *** F401RE_ ***
+*
+* STM32CubeIDE v1.13.1
+* CubeMX V6.9.1
+* STM32CubeF4 Firmware Package V1.27.1
+* 
+*******
+
+le 19/09/2023	v1-4 (1-4)	: update for IDE release
 le 13/05/2020: import ds workspace avec chgt de nom (peut etre fait par rename)
                le nom est contenu ds .project
 //modif depuis Git
